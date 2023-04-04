@@ -1,0 +1,6 @@
+{
+  "beautify.config": "",
+  "prettier.disableLanguages": [
+    "Go"
+  ]
+}
